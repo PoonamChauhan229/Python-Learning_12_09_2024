@@ -1,0 +1,91 @@
+Before Going to anything....
+Since we are here to learn the python language.
+
+To get started with Python, let's make sure our system is set up properly
+
+>Install Python
+>Download the latest version of Python from the official Python website.
+>https://www.python.org/downloads/
+
+click on Download Python 3.12.6
+
+While installation(1st screen)
+> Check the 2 checkboes which are mention at the bootom
+ Install launchers for all users
+ Add Python.exe to Path
+
+Once this installations is complete
+_____________________________________________________________________________
+Open the cmd and check the version
+python --version
+
+_____________________________________________________________________________
+We can go and download VS code , if not avaialble in system
+Thera are IDE code editors (pycharm, anacoda) but we will use vscode itself as many of us are familair with this.
+
+After sucessful installations
+install 2 extensions in vscode from marketplace
+        >Code Runner v0.12.2 Jun Han
+        >Python v2024.14.0 Microsoft microsoft.com
+_____________________________________________________________________________
+After this close the Vscode and reopen 
+Lets Create the first file
+>02test.py
+
+just write in the file
+> print("Hello World")
+
+ open the terminal
+ > python filename
+
+Now, as we dont want to rewrite the python filename again and again
+>click the run button
+File will get executed
+
+Now, once our sytem is ready...
+Now, lets go ahead and understand 
+
+____________________________________________________________________________
+
+WHAT IS PYTHON 
+
+Python is an easy-to-learn and powerful Object-Oriented Programming language. It is a high-level programming language.
+____________________________________________________________________________ 
+
+Why Python?
+Easy to Use: Python is comparatively an easier-to-use language as compared to other programming languages.
+Expressive Language: The syntax of Python is closer to how you would write pseudocode. Which makes it capable of expressing the code’s purpose better than many other languages.
+Interpreted Language: Python is an interpreted language; this means that the Python installation interprets and executes the code a line at a time.
+Python is one of the most popular programming languages to be used in Web Development owing to the variety of Web Development platforms built over it like Django, Flask, etc.
+
+____________________________________________________________________________
+
+It is used for:
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+
+Python can be used on a server to create web applications.
+Python can be used alongside software to create workflows.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development. 
+
+____________________________________________________________________________
+
+Why Python?
+Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+Python has a simple syntax similar to the English language.
+Python has a syntax that allows developers to write programs with fewer lines than some other programming languages.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+Python can be treated in a procedural way, an object-oriented way or a functional way.
+ 
+____________________________________________________________________________
+
+Compare:Python Syntax compared to other programming languages
+Python was designed for readability and has some similarities to the English language with influence from mathematics.
+Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
+
+____________________________________________________________________________

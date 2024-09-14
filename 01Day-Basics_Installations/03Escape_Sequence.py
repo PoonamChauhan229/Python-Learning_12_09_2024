@@ -1,0 +1,12 @@
+# Escape Sequence
+print("Hello\nWorld")
+print("Hello\tWorld")
+print('It\'s a nice day')
+print("He said, \"Python is awesome!\"")
+print("This is a backslash: \\")
+print("Hello\rWorld")
+print("Hello\b World")
+print("Hello\fWorld")
+print("Bell sound\a")
+print("Hello\vWorld")
+print("Null character\0end")

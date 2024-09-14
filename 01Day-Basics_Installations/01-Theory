@@ -22,11 +22,16 @@ python --version
 _____________________________________________________________________________
 We can go and download VS code , if not avaialble in system
 Thera are IDE code editors (pycharm, anacoda) but we will use vscode itself as many of us are familair with this.
-
+_____________________________________________________________________________
+WINDOW OS
 After sucessful installations
 install 2 extensions in vscode from marketplace
         >Code Runner v0.12.2 Jun Han
         >Python v2024.14.0 Microsoft microsoft.com
+_____________________________________________________________________________
+MAC OS
+Same but will crosscheck as well
+
 _____________________________________________________________________________
 After this close the Vscode and reopen 
 Lets Create the first file
@@ -89,3 +94,32 @@ Python was designed for readability and has some similarities to the English lan
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 
 ____________________________________________________________________________
+Python Comments:
+Single Line Comments
+#
+Multi Line Comments:
+'''
+
+'''
+
+Escape Sequence
+Escape Sequence	Meaning
+\n	Newline (line break)
+\t	Tab (horizontal tab)
+\'	Single quote
+\"	Double quote
+\\	Backslash
+\r	Carriage return
+\b	Backspace
+\f	Form feed
+\a	Bell (makes a beep sound)
+\v	Vertical tab
+\0	Null character
+\uxxxx	Unicode character (16-bit hex)
+\Uxxxxxxxx	Unicode character (32-bit hex)
+
+_____________________________________________________________________________
+variables:
+Variables are containers for storing data values
+Python has no command for declaring a variable.
+A variable is created the moment you first assign a value to it.
